@@ -96,4 +96,4 @@ Developers can move from **local code → live deployment** with a single comman
 
 ---
 
-**Maintainer:** DevOps Research Team – Backend.im
+**Maintainer:** Chidera Nnamani – Backend.im
