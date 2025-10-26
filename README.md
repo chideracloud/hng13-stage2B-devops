@@ -60,7 +60,7 @@ This repository enables a **one-command backend deployment workflow** using open
 
 1. Claude Code executes `./deploy.sh` behind the scenes.
 2. The script builds the app (via `./dagger.py`).
-3. Artifacts are uploaded, and a deployment is triggered through `./deploy-adapter-git.py`.
+3. Artifacts are uploaded, and a deployment is triggered through `./deploy-adapter.py`.
 4. Backend.im deploys and returns a status/URL.
 5. Claude Code prints the output, optionally opening the live URL.
 
